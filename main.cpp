@@ -1,6 +1,7 @@
 using namespace std;
 
-#include "bignum.cpp"
+#include "BigNum.h"
+
 void computeFactorial(BigNum &a)
 {
     BigNum b(a);
